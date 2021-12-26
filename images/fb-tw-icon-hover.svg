@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="85px" viewBox="0 45 130 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons-footer-social@1x</title>
+    <g id="Dark-MVP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons-footer-social">
+            <rect id="Rectangle-path" fill="#1F80E0" fill-rule="nonzero" x="0" y="45" width="40" height="40" rx="3"></rect>
+            <rect id="Rectangle-path" fill="#1F80E0" fill-rule="nonzero" x="45" y="45" width="40" height="40" rx="3"></rect>
+			<path d="M24.9,65 L21.9,65 L21.9,76 L16.9,76 L16.9,65 L15,65 L15,61.3 L16.9,61.3 L16.9,58.9 C16.9,55.8 18.2,54 21.9,54 L25.6,54 L25.6,57.7 L23.4,57.7 C22,57.7 21.9,58.2 21.9,59.2 L21.9,61.3 L25.3,61.3 L24.9,65 L24.9,65 L24.9,65 Z M77.6,57.5 C76.6,57.9 75.6,58.2 74.6,58.3 C75.7,57.6 76.5,56.6 76.9,55.4 C75.9,56 74.7,56.4 73.5,56.7 C72.6,55.6 71.2,55 69.7,55 C66.8,55 64.5,57.4 64.5,60.3 C64.5,60.7 64.5,61.1 64.6,61.4 C60.2,61.2 56.4,59.1 53.8,56 C53.3,56.7 53.1,57.6 53.1,58.6 C53.1,60.4 54,62 55.4,63 C54.5,62.9 53.7,62.7 53,62.3 L53,62.4 C53,64.9 54.8,67 57.2,67.5 C56.8,67.6 56.3,67.7 55.9,67.7 C55.5,67.7 55.2,67.7 54.9,67.6 C55.5,69.7 57.5,71.2 59.8,71.3 C58,72.7 55.7,73.5 53.3,73.5 C52.8,73.5 52.4,73.5 52,73.4 C54.3,74.9 57.1,75.8 60,75.8 C69.7,75.8 75,67.8 75,60.9 L75,60.2 C76,59.4 76.9,58.5 77.6,57.5 L77.6,57.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
